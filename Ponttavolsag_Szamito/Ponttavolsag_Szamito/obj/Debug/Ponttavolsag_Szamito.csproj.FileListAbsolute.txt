@@ -1,0 +1,6 @@
+C:\Users\dex02\source\repos\Ponttavolsag_Szamito\Ponttavolsag_Szamito\bin\Debug\Ponttavolsag_Szamito.exe.config
+C:\Users\dex02\source\repos\Ponttavolsag_Szamito\Ponttavolsag_Szamito\bin\Debug\Ponttavolsag_Szamito.exe
+C:\Users\dex02\source\repos\Ponttavolsag_Szamito\Ponttavolsag_Szamito\bin\Debug\Ponttavolsag_Szamito.pdb
+C:\Users\dex02\source\repos\Ponttavolsag_Szamito\Ponttavolsag_Szamito\obj\Debug\Ponttavolsag_Szamito.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Ponttavolsag_Szamito\Ponttavolsag_Szamito\obj\Debug\Ponttavolsag_Szamito.exe
+C:\Users\dex02\source\repos\Ponttavolsag_Szamito\Ponttavolsag_Szamito\obj\Debug\Ponttavolsag_Szamito.pdb
