@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\obj\Debug\veletlenszam.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\obj\Debug\veletlenszam.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\bin\Debug\veletlenszam.exe.config
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\bin\Debug\veletlenszam.exe
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\bin\Debug\veletlenszam.pdb
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\obj\Debug\veletlenszam.exe
+C:\Users\dex02\source\repos\veletlenszam\veletlenszam\obj\Debug\veletlenszam.pdb
