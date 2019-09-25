@@ -1,0 +1,7 @@
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\bin\Debug\HomersekletVizsgalo.exe.config
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\bin\Debug\HomersekletVizsgalo.exe
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\bin\Debug\HomersekletVizsgalo.pdb
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\obj\Debug\HomersekletVizsgalo.csprojAssemblyReference.cache
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\obj\Debug\HomersekletVizsgalo.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\obj\Debug\HomersekletVizsgalo.exe
+C:\Users\dex02\source\repos\HomersekletVizsgalo\HomersekletVizsgalo\obj\Debug\HomersekletVizsgalo.pdb
