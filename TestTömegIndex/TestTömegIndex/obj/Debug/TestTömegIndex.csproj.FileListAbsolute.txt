@@ -1,0 +1,6 @@
+C:\Users\dex02\source\repos\TestTömegIndex\TestTömegIndex\bin\Debug\TestTömegIndex.exe.config
+C:\Users\dex02\source\repos\TestTömegIndex\TestTömegIndex\bin\Debug\TestTömegIndex.exe
+C:\Users\dex02\source\repos\TestTömegIndex\TestTömegIndex\bin\Debug\TestTömegIndex.pdb
+C:\Users\dex02\source\repos\TestTömegIndex\TestTömegIndex\obj\Debug\TestTömegIndex.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\TestTömegIndex\TestTömegIndex\obj\Debug\TestTömegIndex.exe
+C:\Users\dex02\source\repos\TestTömegIndex\TestTömegIndex\obj\Debug\TestTömegIndex.pdb
