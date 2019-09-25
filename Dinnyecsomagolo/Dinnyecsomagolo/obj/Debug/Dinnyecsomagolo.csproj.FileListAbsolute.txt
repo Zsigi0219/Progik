@@ -1,0 +1,6 @@
+C:\Users\dex02\source\repos\Dinnyecsomagolo\Dinnyecsomagolo\bin\Debug\Dinnyecsomagolo.exe.config
+C:\Users\dex02\source\repos\Dinnyecsomagolo\Dinnyecsomagolo\bin\Debug\Dinnyecsomagolo.exe
+C:\Users\dex02\source\repos\Dinnyecsomagolo\Dinnyecsomagolo\bin\Debug\Dinnyecsomagolo.pdb
+C:\Users\dex02\source\repos\Dinnyecsomagolo\Dinnyecsomagolo\obj\Debug\Dinnyecsomagolo.csproj.CoreCompileInputs.cache
+C:\Users\dex02\source\repos\Dinnyecsomagolo\Dinnyecsomagolo\obj\Debug\Dinnyecsomagolo.exe
+C:\Users\dex02\source\repos\Dinnyecsomagolo\Dinnyecsomagolo\obj\Debug\Dinnyecsomagolo.pdb
